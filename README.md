@@ -20,20 +20,17 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 ## 💬 Contact Me
 - **Email:** [aniketikhar88@gmail.com](mailto:aniketikhar88@gmail.com)
 - **Phone:** +91 9518926199
-- **GitHub:** [GitHub](https://github.com/yourusername)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **GitHub:** [GitHub]([https://github.com/yourusername](https://github.com/Aniketikhar))
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aniket-ikhar-119800294/)
 
 ## 📈 GitHub Stats
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketikhar&show_icons=true&hide_title=false&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 🌱 Current Learning
 - **React Native**: Building mobile apps with React Native.
-- **NumPy**: Deepening knowledge in data science with NumPy.
 
-## 📜 My Blog
-- **[Blog Title](#)**: Latest articles and tutorials.
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) and follow my work!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-ikhar-119800294/) and follow my work!
 
