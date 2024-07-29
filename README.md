@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 ## 📈 GitHub Stats
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=false&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketikhar&show_icons=true&hide_title=false&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 🌱 Current Learning
 - **React Native**: Building mobile apps with React Native.
