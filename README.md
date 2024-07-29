@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 ## 💬 Contact Me
 - **Email:** [aniketikhar88@gmail.com](mailto:aniketikhar88@gmail.com)
 - **Phone:** +91 9518926199
-- **GitHub:** [GitHub]([https://github.com/yourusername](https://github.com/Aniketikhar))
+- **GitHub:** [GitHub](https://github.com/Aniketikhar)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aniket-ikhar-119800294/)
 
 ## 📈 GitHub Stats
